@@ -1,5 +1,3 @@
-# video_recognition
-
 ## CNN and LSTM based Human Action Recognition 
 
 Developed a CNN and LSTM-based framework to recognize human activity in video
